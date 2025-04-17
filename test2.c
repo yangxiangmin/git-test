@@ -32,6 +32,9 @@ double log_base(double x, double base) {
     return log(x) / log(base); // 换底公式
 }
 
+// add modify yxm
+// end of modify
+
 // 二进制对数（以2为底）
 double log2_custom(double x) {
     if (x <= 0) {
